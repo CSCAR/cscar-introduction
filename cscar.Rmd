@@ -6,7 +6,6 @@ output:
     transition: slide
     incremental: true
     center: true
-    font-family: Roboto
     css: slides_light.css
 ---
 
@@ -14,7 +13,7 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Data Science Consulting
+## Data Science Collaboration
 
 <div class='col2'>
 <img src="img/Rlogo.svg" style="display:block; margin: 0 auto;" width='75%'>
@@ -22,7 +21,7 @@ knitr::opts_chunk$set(echo = TRUE)
 <img src="img/py.svg" style="display:block; margin: 0 auto;" width='150%'>
 </div>
 
-## Statistical Modeling
+## Statistical Modeling {data-background='img/priorLikePosterior.png'}
 
 <br>
 <br>
@@ -34,20 +33,22 @@ $$y \sim \mathscr{N}(X\beta, \sigma^2)$$
 </p>
 
 
-## Modeling specialties
+## Modeling Specialties
 
 <p style="text-align:center; font-size: 100%">
 Mixed models<br>
 Machine learning<br>
-Analysis of complex sample surveys <br>
-GIS, spatial, remote-sensing<br>
 High dimensional data<br>
 Code optimization<br>
+Text analysis<br>
+Analysis of complex sample surveys <br>
+GIS, spatial, remote-sensing<br>
 and more!
 </p>
 
 
-## Programming expertise
+## Programming Expertise {data-background='img/Rlogo.svg'}
+
 <p style="text-align:center; font-size: 100%">
 R<br>
 Python<br>
@@ -71,7 +72,27 @@ and more!
 <img src="img/ARC_logos/signature-informal-white.png" style="display:block; margin: 0 auto;">
 
 
-## Visualization
+
+
+## Other Assistance {data-background='img/plotly_scatter.png'}
+
+
+<p style="text-align:center;">
+Visualization <br>
+Web scraping <br>
+Data I/O <br>
+Concept formation <br>
+Reproducible research <br>
+Best practices
+</p>
+
+## 
+
+<p style="text-align:center;">
+For common data and analysis problems, just stop by!
+<br><br>
+Send a question to the help list!
+</p>
 
 
 ## Workshops
@@ -268,7 +289,7 @@ and more!
 
 ## {data-transition="zoom"  data-autoslide="125"}
 
-<img src="img/smile.png" style="display:block; margin: 0 auto;">
+<img src="img/smile.png" style="display:block; margin: 0 auto;" width=70%>
 
 
 
@@ -295,4 +316,5 @@ and more!
 <p class='fragment fade-up' style="text-align:center; font-size:200%"> Can you do any less?!</p>
 
 
-## <img src="img/cscar84.png" style="display:block; margin: 0 auto;">
+
+## {data-background="img/cscar84.png"}
