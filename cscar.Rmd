@@ -8,7 +8,7 @@ output:
     transition: slide
     incremental: true
     center: true
-    css: slides_light.css
+    css: slides.css
 ---
 
 ```{r setup, include=FALSE}
@@ -35,7 +35,7 @@ $$y \sim \mathscr{N}(X\beta, \sigma^2)$$
 </p>
 
 
-## Modeling Specialties {data-background='img/ml3.png'}
+## Modeling Specialties {data-background='img/ml2.png'  data-state='opac25'}
 
 <p style="text-align:center; font-size: 100%">
 Mixed models<br>
@@ -105,7 +105,7 @@ stats-consulting@umich.edu &nbsp; ds-consulting@umich.edu  &nbsp;  &nbsp; hpc-co
 
 
 <p style="text-align:center; font-size: 120%">
-<br>Hands on programming<br><br>
+<br>Hands-on programming<br><br>
 Data Science Skill Series</p>
 
 <br><br>
