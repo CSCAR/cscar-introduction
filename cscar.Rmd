@@ -1,5 +1,7 @@
 ---
 title: "<span><img src='img/CSCAR_logos/signature-vertical-informal.png' style='display:block; margin: 0 auto;'></span>"
+
+author: "<span>cscar.research.umich.edu</span>"
 output: 
   revealjs::revealjs_presentation:
     theme: dark
@@ -21,7 +23,7 @@ knitr::opts_chunk$set(echo = TRUE)
 <img src="img/py.svg" style="display:block; margin: 0 auto;" width='150%'>
 </div>
 
-## Statistical Modeling {data-background='img/priorLikePosterior.png'}
+## Statistical Modeling {data-background='img/priorLikePosterior.png' data-state='opac50'}
 
 <br>
 <br>
@@ -33,7 +35,7 @@ $$y \sim \mathscr{N}(X\beta, \sigma^2)$$
 </p>
 
 
-## Modeling Specialties
+## Modeling Specialties {data-background='img/ml3.png'}
 
 <p style="text-align:center; font-size: 100%">
 Mixed models<br>
@@ -47,7 +49,7 @@ and more!
 </p>
 
 
-## Programming Expertise {data-background='img/Rlogo.svg'}
+## Programming Expertise {data-background='img/Rlogo.svg' data-state='opac75'}
 
 <p style="text-align:center; font-size: 100%">
 R<br>
@@ -74,7 +76,7 @@ and more!
 
 
 
-## Other Assistance {data-background='img/plotly_scatter.png'}
+## Other Assistance {data-background='img/plotly_scatter.png' data-state='opac75'}
 
 
 <p style="text-align:center;">
@@ -86,39 +88,39 @@ Reproducible research <br>
 Best practices
 </p>
 
-## 
+## {data-background='img/q_white.png' data-state='opac25'}
 
 <p style="text-align:center;">
 For common data and analysis problems, just stop by!
 <br><br>
 Send a question to the help list!
 </p>
+<br>
+
+<p style="text-align:center; font-size:65%">
+stats-consulting@umich.edu &nbsp; ds-consulting@umich.edu  &nbsp;  &nbsp; hpc-consulting@umich.edu
+</p>
+
+## Workshops {data-background='img/code2.png'}
 
 
-## Workshops
+<p style="text-align:center; font-size: 120%">
+<br>Hands on programming<br><br>
+Data Science Skill Series</p>
 
-<div style="text-align:center; font-size: 150%">Hands on programming</div>
-<div style="text-align: center; font-size: 150%">Data Science Skill Series</div>
+<br><br>
 
+<p style="text-align:center; font-size: 75%">
+[cscar.research.umich.edu/events](cscar.research.umich.edu/events)
+</p>
 
 ## {data-transition="zoom"  data-autoslide="3000"}
 
 
-<!-- <script type="text/javascript"> -->
-<!-- var audio = new Audio('http://www3.nd.edu/~sberry5/electricGroove.mp3'); -->
-<!-- audio.play(); -->
-<!-- </script> -->
-
-
-
-<!-- <section> -->
-<!--   <audio data-autoplay src="C:\Users\MC\Music\Amazon MP3\Com Truise\Galactic Melt\01-09- Ether Drift.mp3"></audio> -->
-<!-- </section> -->
-
 <img src="img/CSCAR_logos/signature-vertical-informal.png" style="display:block; margin: 0 auto;">
 
 
-##  {data-transition="zoom" data-autoslide="5000" }
+##  {data-transition="zoom" data-autoslide="3000" }
 
 <img src="img/Rlogo.svg" style="display:block; margin: 0 auto">
 
@@ -317,4 +319,4 @@ Send a question to the help list!
 
 
 
-## {data-background="img/cscar84.png"}
+## {data-background="img/cscar84.png" data-state='opac50'}

@@ -149,3 +149,14 @@ a {
   background: -o-linear-gradient(top, #2F2727, #002b36);
 }
 
+html.opac75 .slide-background.present {
+    opacity: 0.75;
+}
+
+html.opac50 .slide-background.present {
+    opacity: 0.50;
+}
+
+html.opac25 .slide-background.present {
+    opacity: 0.25;
+}
