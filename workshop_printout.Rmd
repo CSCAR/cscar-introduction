@@ -7,16 +7,16 @@ output: html_document
 knitr::opts_chunk$set(echo = FALSE, message = FALSE)
 ```
 
+<img src="img/workshop_topics.png" style="display:block; margin: 0 auto;">
 
-
-```{r, fig.align='right', out.width=900}
+```{r, fig.align='right', out.width=900, eval=FALSE}
 library(wordcloud)
 
 wds = c('R', 'Python', 'Statistics', 'Programming', 'Machine Learning', 'Stata', 'Bayesian',
         'Mixed Models', 'Text Analysis', 'Visualization', 'Web Scraping', 'Matlab', 'Regression', 
         'Spatial Analysis', 'Classification', 'Deep Learning', 'Factor Analysis', 'Reproducible Research', 
-        'Image Processing', 'GIS',
-        'SEM', 'Survival Analysis', 'Dimension Reduction', 'Stan', 'Networks', 'Survey Design')
+        'Image Processing', 'GIS', 'SEM', 'Survival Analysis', 'Dimension Reduction', 'Stan', 
+        'Networks', 'Survey Design')
 set.seed(1234567)
 # wordcloud(wds, 
 #           freq = rev(seq_along(wds))/length(wds), 
@@ -28,7 +28,7 @@ set.seed(1234567)
 
 wds = data.frame(wds, rev(seq_along(wds))/length(wds))
 wordcloud2::wordcloud2(wds, 
-                       size = .5,
+                       size = 1,
                        # gridSize = .05,
                        rotateRatio = .75, 
                        color='#00000080',
