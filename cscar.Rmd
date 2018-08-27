@@ -43,7 +43,7 @@ Machine learning<br>
 High dimensional data<br>
 Code optimization<br>
 Text analysis<br>
-Analysis of complex sample surveys <br>
+<!-- Analysis of complex sample surveys <br> -->
 GIS, spatial, remote-sensing<br>
 and more!
 </p>
@@ -315,8 +315,8 @@ Data Science Skill Series</p>
 
 ## Join Us Now! {data-transition="zoom" data-autoslide="3000" }
 
-<p class='fragment fade-up' style="text-align:center; font-size:200%"> Can you do any less?!</p>
+<!-- <p class='fragment fade-up' style="text-align:center; font-size:200%"> Can you do any less?!</p> -->
 
 
 
-## {data-background="img/cscar84.png" data-state='opac50'}
+<!-- ## {data-background="img/cscar84.png" data-state='opac50'} -->
